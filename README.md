@@ -1,2 +1,2 @@
 # Emotion-detection-based-on-text
-This is my Final Year Project in Multimedia University. In this project, Python language will become my primary programming language to finish the project.
+Emotion can be expressed in different type of ways such as facial expression, gestures, speech and written text. In this project, Text-based Emotion Detection is proposed to identify the feelings from the text and it’s involving the concept from the domains of Natural Language Processing (NLP) and Machine Learning. The aims of Text-based Emotion Detection are detecting and recognizing the type of feeling through the expression of texts, example like happiness, surprise, fear, anger, disgust, and sadness. 
